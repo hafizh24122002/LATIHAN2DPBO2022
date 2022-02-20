@@ -19,3 +19,13 @@ Pada kelas `Memory` terdapat 3 attribute sesuai dengan spesifikasi yang diberika
 <?php declare(strict_types=1);
 ...
 ``` 
+
+**Screenshot program:
+
+![Java](https://github.com/hafizh24122002/LATIHAN2DPBO2022/blob/main/1/java.png)
+
+![C++](https://github.com/hafizh24122002/LATIHAN2DPBO2022/blob/main/2/cpp.png)
+
+![Python](https://github.com/hafizh24122002/LATIHAN2DPBO2022/blob/main/2/python.png)
+
+![PHP](https://github.com/hafizh24122002/LATIHAN2DPBO2022/blob/main/2/php.png)
